@@ -11,7 +11,7 @@
     "start": "node ."
   },
   "keywords": [],
-  "author": "Nobutaka OSHIRO",
+  "author": "dbgso",
   "license": "ISC",
   "description": "",
   "dependencies": {
