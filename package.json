@@ -8,6 +8,7 @@
     "clean": "rimraf dist/*",
     "tsc": "tsc",
     "build": "npm-run-all clean tsc",
+    "build:watch": "npm-run-all clean 'tsc --watch'",
     "start": "node ."
   },
   "keywords": [],
